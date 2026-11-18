@@ -38,6 +38,7 @@ One row per person. The same role may appear on more than one row.
 | Name | GitHub username | Role |
 |---|---|---|
 | Scott Robinson | scott-c-robinson | Strategist |
+| Gabe Light | gabelight42 | The Engineer (Data Lead) |
 
 ## Side quests
 

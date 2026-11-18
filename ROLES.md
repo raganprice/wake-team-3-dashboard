@@ -41,6 +41,7 @@ One row per person. The same role may appear on more than one row.
 | Gabe Light | gabelight42 | The Engineer (Data Lead) |
 | Kylie Judy | judyke26 | The Artist (Design Lead) |
 | Ragan Price | raganprice | Delivery Lead |
+| Owen Edwards | Owen-Baxter-Edwards | The Closer (Pitch Lead) |
 
 ## Side quests
 

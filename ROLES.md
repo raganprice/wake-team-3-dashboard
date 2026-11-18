@@ -39,7 +39,7 @@ One row per person. The same role may appear on more than one row.
 |---|---|---|
 | Scott Robinson | scott-c-robinson | Spec Lead |
 | Gabe Light | gabelight42 | The Engineer (Data Lead) |
-| Kylie Judy | judyke26 | The Artist |
+| Kylie Judy | judyke26 | The Artist (Design Lead) |
 | Ragan Price | raganprice | Delivery Lead |
 
 ## Side quests
